@@ -50,7 +50,7 @@ This project is an interactive **Microsoft Excel Dashboard** designed to analyze
 Developed a dynamic dashboard that enables stakeholders to track performance, uncover trends, and make data-driven business decisions efficiently.
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](Dashboard_Screenshot.png)
+![Dashboard Preview](excel_dashboard_ss.png)
 
 ## 👤 Author
 **Anushi Mishra**  
